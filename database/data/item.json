@@ -1,0 +1,559 @@
+[{
+  "key": "nuts",
+  "name": "Орешки",
+  "type": "dessert",
+  "price": 22,
+  "measurement_unit": "шт",
+  "measurement_amount": 1,
+  "availability": true
+},
+{
+  "key": "macaroon",
+  "name": "Макаруны",
+  "type": "dessert",
+  "taste": "Дорблю-Грецкий-Мёд",
+  "price": 40,
+  "measurement_unit": "шт",
+  "measurement_amount": 1,
+  "availability": true
+},
+{
+  "key": "macaroon",
+  "name": "Макаруны",
+  "type": "dessert",
+  "taste": "Марципан-Мандарин",
+  "price": 40,
+  "measurement_unit": "шт",
+  "measurement_amount": 1,
+  "availability": true
+},
+{
+  "key": "macaroon",
+  "name": "Макаруны",
+  "type": "dessert",
+  "taste": "Мак-Клюква",
+  "price": 40,
+  "measurement_unit": "шт",
+  "measurement_amount": 1,
+  "availability": true
+},
+{
+  "key": "macaroon",
+  "name": "Макаруны",
+  "type": "dessert",
+  "taste": "Камамбер-Инжир",
+  "price": 40,
+  "measurement_unit": "шт",
+  "measurement_amount": 1,
+  "availability": true
+},
+{
+  "key": "macaroon",
+  "name": "Макаруны",
+  "type": "dessert",
+  "taste": "Брауни-Грецкий-Вишня",
+  "price": 40,
+  "measurement_unit": "шт",
+  "measurement_amount": 1,
+  "availability": true
+},
+{
+  "key": "macaroon",
+  "name": "Макаруны",
+  "type": "dessert",
+  "taste": "Солёная карамель",
+  "price": 40,
+  "measurement_unit": "шт",
+  "measurement_amount": 1,
+  "availability": true
+},
+{
+  "key": "macaroon",
+  "name": "Макаруны",
+  "type": "dessert",
+  "taste": "Лаванда-Персик",
+  "price": 40,
+  "measurement_unit": "шт",
+  "measurement_amount": 1,
+  "availability": true
+},
+{
+  "key": "macaroon",
+  "name": "Макаруны",
+  "type": "dessert",
+  "taste": "Манго",
+  "price": 40,
+  "measurement_unit": "шт",
+  "measurement_amount": 1,
+  "availability": true
+},
+{
+  "key": "macaroon",
+  "name": "Макаруны",
+  "type": "dessert",
+  "taste": "Жасмин-Абрикос",
+  "price": 40,
+  "measurement_unit": "шт",
+  "measurement_amount": 1,
+  "availability": true
+},
+{
+  "key": "macaroon",
+  "name": "Макаруны",
+  "type": "dessert",
+  "taste": "Ваниль-Вишня",
+  "price": 40,
+  "measurement_unit": "шт",
+  "measurement_amount": 1,
+  "availability": true
+},
+{
+  "key": "macaroon",
+  "name": "Макаруны",
+  "type": "dessert",
+  "taste": "Орео",
+  "price": 40,
+  "measurement_unit": "шт",
+  "measurement_amount": 1,
+  "availability": true
+},
+{
+  "key": "macaroon",
+  "name": "Макаруны",
+  "type": "dessert",
+  "taste": "Фисташка-Малина",
+  "price": 40,
+  "measurement_unit": "шт",
+  "measurement_amount": 1,
+  "availability": true
+},
+{
+  "key": "macaroon",
+  "name": "Макаруны",
+  "type": "dessert",
+  "taste": "Кофе-Бейлис",
+  "price": 40,
+  "measurement_unit": "шт",
+  "measurement_amount": 1,
+  "availability": true
+},
+{
+  "key": "macaroon",
+  "name": "Макаруны",
+  "type": "dessert",
+  "taste": "Банан-Фундук",
+  "price": 40,
+  "measurement_unit": "шт",
+  "measurement_amount": 1,
+  "availability": true
+},
+{
+  "key": "macaroon",
+  "name": "Макаруны",
+  "type": "dessert",
+  "taste": "Груша-Горгонзола",
+  "price": 40,
+  "measurement_unit": "шт",
+  "measurement_amount": 1,
+  "availability": true
+},
+{
+  "key": "macaroon",
+  "name": "Макаруны",
+  "type": "dessert",
+  "taste": "Смородина",
+  "price": 40,
+  "measurement_unit": "шт",
+  "measurement_amount": 1,
+  "availability": true
+},
+{
+  "key": "macaroon",
+  "name": "Макаруны",
+  "type": "dessert",
+  "taste": "Овсяное печенье",
+  "price": 40,
+  "measurement_unit": "шт",
+  "measurement_amount": 1,
+  "availability": true
+},
+{
+  "key": "macaroon",
+  "name": "Макаруны",
+  "type": "dessert",
+  "taste": "Лайм-Клубника",
+  "price": 40,
+  "measurement_unit": "шт",
+  "measurement_amount": 1,
+  "availability": true
+},
+{
+  "key": "macaroon",
+  "name": "Макаруны",
+  "type": "dessert",
+  "taste": "Кокос",
+  "price": 40,
+  "measurement_unit": "шт",
+  "measurement_amount": 1,
+  "availability": true
+},
+{
+  "key": "macaroon",
+  "name": "Макаруны",
+  "type": "dessert",
+  "taste": "Пармезан-Хурма",
+  "price": 40,
+  "measurement_unit": "шт",
+  "measurement_amount": 1,
+  "availability": true
+},
+{
+  "key": "cheesecake",
+  "name": "Запеканка",
+  "type": "dessert",
+  "price": 55,
+  "measurement_unit": "шт",
+  "measurement_amount": 1,
+  "availability": true
+},
+{
+  "key": "brownie",
+  "name": "Брауни",
+  "type": "dessert",
+  "taste": "Миндаль и Белый шоколад",
+  "price": 55,
+  "measurement_unit": "шт",
+  "measurement_amount": 1,
+  "availability": true
+},
+{
+  "key": "brownie",
+  "name": "Брауни",
+  "type": "dessert",
+  "taste": "Вишня и Грецкий орех",
+  "price": 55,
+  "measurement_unit": "шт",
+  "measurement_amount": 1,
+  "availability": true
+},
+{
+  "key": "brownie",
+  "name": "Брауни",
+  "type": "dessert",
+  "taste": "Oreo",
+  "price": 55,
+  "measurement_unit": "шт",
+  "measurement_amount": 1,
+  "availability": true
+},
+{
+  "key": "brownie",
+  "name": "Брауни",
+  "type": "dessert",
+  "taste": "M&Ms",
+  "price": 55,
+  "measurement_unit": "шт",
+  "measurement_amount": 1,
+  "availability": true
+},
+{
+  "key": "croissant",
+  "name": "Круассан",
+  "type": "dessert",
+  "price": 40,
+  "measurement_unit": "шт",
+  "measurement_amount": 1,
+  "availability": true
+},
+{
+  "key": "stollen",
+  "name": "Штолен",
+  "type": "dessert",
+  "price": 45,
+  "measurement_unit": "шт",
+  "measurement_amount": 1,
+  "availability": true
+},
+{
+  "key": "tubules",
+  "name": "Трубочки",
+  "type": "dessert",
+  "price": 40,
+  "measurement_unit": "шт",
+  "measurement_amount": 1,
+  "availability": true
+},
+{
+  "key": "waffle_cake",
+  "name": "Вафельный торт со сгущенкой",
+  "type": "dessert",
+  "price": 45,
+  "measurement_unit": "шт",
+  "measurement_amount": 1,
+  "availability": true
+},
+{
+  "key": "espresso",
+  "name": "Еспресо",
+  "type": "drink",
+  "price": 27,
+  "measurement_unit": "мл",
+  "measurement_amount": 30,
+  "availability": true
+},
+{
+  "key": "americano",
+  "name": "Американо",
+  "type": "drink",
+  "price": 27,
+  "measurement_unit": "мл",
+  "measurement_amount": 130,
+  "availability": true
+},
+{
+  "key": "macchiato",
+  "name": "Макиато",
+  "type": "drink",
+  "price": 30,
+  "measurement_unit": "мл",
+  "measurement_amount": 60,
+  "availability": true
+},
+{
+  "key": "americano_milk",
+  "name": "Американо с молоком",
+  "type": "drink",
+  "price": 30,
+  "measurement_unit": "мл",
+  "measurement_amount": 150,
+  "availability": true
+},
+{
+  "key": "cappuccino",
+  "name": "Капучино",
+  "type": "drink",
+  "price": 30,
+  "measurement_unit": "мл",
+  "measurement_amount": 170,
+  "availability": true
+},
+{
+  "key": "dopio",
+  "name": "Допио",
+  "type": "drink",
+  "price": 35,
+  "measurement_unit": "мл",
+  "measurement_amount": 60,
+  "availability": true
+},
+{
+  "key": "latte",
+  "name": "Латте",
+  "type": "drink",
+  "price": 35,
+  "measurement_unit": "мл",
+  "measurement_amount": 330,
+  "availability": true
+},
+{
+  "key": "flat_white",
+  "name": "Flat White",
+  "type": "drink",
+  "price": 40,
+  "measurement_unit": "мл",
+  "measurement_amount": 170,
+  "availability": true
+},
+{
+  "key": "double_cappuccino",
+  "name": "Дабл Капучино",
+  "type": "drink",
+  "price": 45,
+  "measurement_unit": "мл",
+  "measurement_amount": 330,
+  "availability": true
+},
+{
+  "key": "raf",
+  "name": "Раф",
+  "type": "drink",
+  "price": 50,
+  "measurement_unit": "мл",
+  "measurement_amount": 330,
+  "availability": true
+},
+{
+  "key": "mocco",
+  "name": "Мокко",
+  "type": "drink",
+  "price": 55,
+  "measurement_unit": "мл",
+  "measurement_amount": 330,
+  "availability": true
+},
+{
+  "key": "tea",
+  "name": "Чай",
+  "type": "drink",
+  "taste": "Черный",
+  "price": 27,
+  "measurement_unit": "мл",
+  "measurement_amount": 330,
+  "availability": true
+},
+{
+  "key": "tea",
+  "name": "Чай",
+  "type": "drink",
+  "taste": "Зелёный",
+  "price": 27,
+  "measurement_unit": "мл",
+  "measurement_amount": 330,
+  "availability": true
+},
+{
+  "key": "fruit_tea",
+  "name": "Фруктовый Чай",
+  "type": "drink",
+  "taste": "Облепиха",
+  "price": 37,
+  "measurement_unit": "мл",
+  "measurement_amount": 330,
+  "availability": true
+},
+{
+  "key": "fruit_tea",
+  "name": "Фруктовый Чай",
+  "type": "drink",
+  "taste": "Облепиха-маракуйя",
+  "price": 37,
+  "measurement_unit": "мл",
+  "measurement_amount": 330,
+  "availability": true
+},
+{
+  "key": "fruit_tea",
+  "name": "Фруктовый Чай",
+  "type": "drink",
+  "taste": "Малина",
+  "price": 37,
+  "measurement_unit": "мл",
+  "measurement_amount": 330,
+  "availability": true
+},
+{
+  "key": "fruit_tea",
+  "name": "Фруктовый Чай",
+  "type": "drink",
+  "taste": "Клубника",
+  "price": 37,
+  "measurement_unit": "мл",
+  "measurement_amount": 330,
+  "availability": true
+},
+{
+  "key": "fruit_tea",
+  "name": "Фруктовый Чай",
+  "type": "drink",
+  "taste": "Черника",
+  "price": 37,
+  "measurement_unit": "мл",
+  "measurement_amount": 330,
+  "availability": true
+},
+{
+  "key": "fruit_tea",
+  "name": "Фруктовый Чай",
+  "type": "drink",
+  "taste": "Смородина",
+  "price": 37,
+  "measurement_unit": "мл",
+  "measurement_amount": 330,
+  "availability": true
+},
+{
+  "key": "fruit_tea",
+  "name": "Фруктовый Чай",
+  "type": "drink",
+  "taste": "Имбирь",
+  "price": 37,
+  "measurement_unit": "мл",
+  "measurement_amount": 330,
+  "availability": true
+},
+{
+  "key": "filter_small",
+  "name": "Фильтр Маленький",
+  "type": "drink",
+  "price": 30,
+  "measurement_unit": "мл",
+  "measurement_amount": 170,
+  "availability": true
+},
+{
+  "key": "filter_big",
+  "name": "Фильтр Большой",
+  "type": "drink",
+  "price": 40,
+  "measurement_unit": "мл",
+  "measurement_amount": 330,
+  "availability": true
+},
+{
+    "key": "no_lactose",
+    "name": "Безлактозное",
+    "type": "milk",
+    "price": 10,
+    "measurement_unit": "qty",
+    "measurement_amount": 1,
+    "availability": true
+},
+{
+  "key": "coconut",
+  "name": "Кокосовое",
+  "type": "milk",
+  "kind": "vegetable",
+  "price": 30,
+  "measurement_unit": "qty",
+  "measurement_amount": 1,
+  "availability": true
+},
+{
+  "key": "almond",
+  "name": "Миндальное",
+  "type": "milk",
+  "kind": "vegetable",
+  "price": 30,
+  "measurement_unit": "qty",
+  "measurement_amount": 1,
+  "availability": true
+},
+{
+  "key": "soy_vanilla",
+  "name": "Соево-ванильное",
+  "type": "milk",
+  "kind": "vegetable",
+  "price": 30,
+  "measurement_unit": "qty",
+  "measurement_amount": 1,
+  "availability": true
+},
+{
+  "key": "rice",
+  "name": "Рисовое",
+  "type": "milk",
+  "kind": "vegetable",
+  "price": 30,
+  "measurement_unit": "qty",
+  "measurement_amount": 1,
+  "availability": true
+},
+{
+  "key": "cow",
+  "name": "Коровье",
+  "type": "milk",
+  "price": 0,
+  "measurement_unit": "qty",
+  "measurement_amount": 1,
+  "availability": true
+}]
